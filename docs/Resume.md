@@ -12,7 +12,7 @@ I am a creative, self-assured person who is passionate about new technologies. L
 
 ## Education
 
- University of Maryland, Baltimore County, USA  (2023 - 2025)
+**University of Maryland, Baltimore County, USA  (2023 - 2025)*
 **Master of Science - Data Science**  
 GPA: 4.0/4.0  
 Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
