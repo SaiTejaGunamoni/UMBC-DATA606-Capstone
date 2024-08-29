@@ -1,1 +1,72 @@
+#  Sai Teja Gunamoni
 
+![ProfilePic](./ProfilePic.jpg)  
++1 4438540950  
+Saitejagunamoni@gmail.com  
+5330 Jamestowne Ct, Baltimore, MD 21229  
+
+
+Motivated and dedicated graduate student pursuing a Master’s degree in Data Science at UMBC, seeking a Grader opportunity to leverage academic knowledge and 1.5+ years of professional experience gained at Cognizant, to contribute effectively to students and professors.
+
+---
+
+## Education
+
+### University of Maryland, Baltimore County, USA  
+* 2023 - 2025*  
+**Master of Science - Data Science**  
+GPA: 4.0/4.0  
+Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
+
+### Vardhaman College of Engineering, India  
+* 2017 - 2021*  
+**Bachelor of Technology in Electronics & Communication Engineering**  
+GPA: 9.0/10  
+Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
+
+---
+
+## Projects
+
+### **[Analysis of Crime Rates in Baltimore City]**  
+- Led the analysis of over 50,000 crime incidents in Baltimore City spanning 2017 to 2022, leveraging Python and Pandas to generate insightful visualizations with Matplotlib and Seaborn.
+- Identified the top 5 neighborhoods with up to 30% increase or decrease in crime rates, offering actionable insights to stakeholders for informed decision-making and resource allocation.
+
+### **[ROI-based Change Detection of Time Series NDVI Image](https://github.com/vamshi4h2)**   
+- Designed software to process multispectral images to rank regions representing weak and strong areas, enabling farmers to accurately identify crop growth in different parts. 
+- Published in *Annals of RSCB*, vol. 25, no. 6, pp. 17744-17752, Jul. 2021.
+
+### **[Animal Species Image Classification](https://github.com/vamshi4h2/ImageClassification1)** 
+- Developed a project that classifies different images of animals and labels them with their names using a pre-trained network (VGG16) and deep learning techniques such as the Adam optimizer and the ReLU function. 
+- Compared it with traditional models (without pre-trained architecture) and achieved better accuracy.
+
+---
+
+## Professional Experience
+
+### Associate Software Engineer  
+**Accenture , India**  
+*November 2021 - July 2023*  
+- Demonstrated strong analytical skills to identify root causes of defects and suggest improvements to the software. 
+- Developed and carried out extensive test strategies to guarantee the operation of medical software programs. 
+- Used JIRA tool to find and report important software flaws, working with developers to fix them and raise the caliber of the product as a whole. 
+- Kept a close eye on details to guarantee that HIPAA compliance requirements for data security and privacy were followed. 
+- Participated fully in all Scrum team activities, such as sprint reviews, daily stand-up meetings,  and sprint planning. 
+- Successfully updated developers, project managers, and the healthcare client on test results and project progress 
+
+### Junior Analyst  
+**Cognizant Technology Solutions, India**  
+*February 2021 - September 2021*  
+- Received training in various technologies, including SQL and DotNet.
+- Contributed to the "Pharmacy Management System" project, designed to provide real-time information on drug inventory levels in medical stores, facilitating timely drug orders by physicians.
+
+---
+
+## Certifications and Skills
+
+- **ICT Skills:** Python, SQL, HTML, CSS, Data Structure and Algorithm, MS Office (Excel, Word, PPT)
+- **Languages:** English (Proficient), Telugu (Native), Hindi (Proficient)
+- **Certifications:**
+  - Programming for Everybody (Getting Started with Python) - Coursera
+  - Getting Started with AWS Machine Learning - Coursera
+  - CCNAv7: Introduction to Networks - Cisco
