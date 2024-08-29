@@ -23,7 +23,16 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Relevant Coursework: Programming in C, Java Programming, Probability Theory and stochastic process, Java Programming, Computer Networks, Image Processing
 
 ---
-
+## Technical Skills
+- *Programming Languages*: Python, C, Java, MATLAB
+- *Markup Languages*: HTML, CSS.
+- *Design/Analysis*: Data Structures and Algorithms, Object-oriented Programming (OOP)
+- *Database Technologies*: SQL
+- *Software Testing*: Agile Methodologies (Scrum)
+- *Machine Learning*: Linear Regression, Decision Tree, K-Nearest Neighbors (KNN), Random Forest 
+- Classifier, K-Means Clustering
+- *Microsoft Office Suite*: Proficient in Word, Excel, PowerPoint
+---
 ## Academic Projects
 
 **Predicting Credit Card Defaulters using Machine Learning | Python, Tensor Flow, Machine Learning, MongoDB.**
@@ -58,11 +67,8 @@ I am a creative, self-assured person who is passionate about new technologies. L
 
 ---
 
-## Skills and Certifications
+## Certifications
 
-- **ICT Skills:** Python, SQL, HTML, CSS, Data Structure and Algorithm, MS Office (Excel, Word, PPT)
-- **Languages:** English (Proficient), Telugu (Native), Hindi (Proficient)
-- **Certifications:**
-  - Programming for Everybody (Getting Started with Python) - Coursera
-  - Getting Started with AWS Machine Learning - Coursera
-  - CCNAv7: Introduction to Networks - Cisco
+- Coursera Certification on Programming for everybody (getting started with python)
+- Coursera Certification on Object-Oriented Programming with Java
+- Coursera Certification on Python Data Structure
