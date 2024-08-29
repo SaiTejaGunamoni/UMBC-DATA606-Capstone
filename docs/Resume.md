@@ -18,7 +18,7 @@ GPA: 4.0/4.0
 Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
 
 **Vardhaman College of Engineering, India  (2017 - 2021)**  
-**Bachelor of Technology in Electronics & Communication Engineering** 
+**Bachelor of Technology in Electronics & Communication Engineering**  
 GPA: 9.0/10  
 Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
 
@@ -26,11 +26,11 @@ Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer 
 
 ## Projects
 
-### **[Analysis of Crime Rates in Baltimore City]**  
+**Analysis of Crime Rates in Baltimore City**  
 - Led the analysis of over 50,000 crime incidents in Baltimore City spanning 2017 to 2022, leveraging Python and Pandas to generate insightful visualizations with Matplotlib and Seaborn.
 - Identified the top 5 neighborhoods with up to 30% increase or decrease in crime rates, offering actionable insights to stakeholders for informed decision-making and resource allocation.
 
-### **[ROI-based Change Detection of Time Series NDVI Image](https://github.com/vamshi4h2)**   
+**ROI-based Change Detection of Time Series NDVI Image**   
 - Designed software to process multispectral images to rank regions representing weak and strong areas, enabling farmers to accurately identify crop growth in different parts. 
 - Published in *Annals of RSCB*, vol. 25, no. 6, pp. 17744-17752, Jul. 2021.
 
