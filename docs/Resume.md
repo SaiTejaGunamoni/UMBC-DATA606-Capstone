@@ -64,7 +64,6 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Had an experience as a Data Analyst, excelling in data preparation, analysis, and database Management. 
 - Worked on converting complex data sets into actionable insights, supporting data-driven decision-making.
 - Delivered high-quality work, demonstrated exceptional participation, and engaged proficiently with colleagues.
-
 ---
 
 ## Certifications
@@ -72,3 +71,8 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Coursera Certification on Programming for everybody (getting started with python)
 - Coursera Certification on Object-Oriented Programming with Java
 - Coursera Certification on Python Data Structure
+---
+## Publications
+- High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication
+- Published in 2022 First International Conference on Artificial Intelligence Trends and Pattern
+- [Recognition (ICAITPR). Reference Link: ](./https://ieeexplore.ieee.org/document/9844191)
