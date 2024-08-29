@@ -9,20 +9,6 @@ Address: 5330 Jamestowne Ct, Baltimore, MD - 21229
 I am a creative, self-assured person who is passionate about new technologies. Looking forward to use my technical, analytical, and artistic skills to improve society.
 
 ---
-
-## Education
-
-**University of Maryland, Baltimore County, USA  (2023 - 2025)**  
-*Masters in Data Science*
-- GPA: 4.0/4.0  
-- Relevant Coursework: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
-
-**Vardhaman College of Engineering, India  (2017 - 2021)**  
-*Bachelor of Technology in Electronics & Communication Engineering*
-- GPA: 9.0/10  
-- Relevant Coursework: Programming in C, Java Programming, Probability Theory and stochastic process, Java Programming, Computer Networks, Image Processing
-
----
 ## Technical Skills
 - *Programming Languages*: Python, C, Java, MATLAB
 - *Markup Languages*: HTML, CSS.
@@ -33,8 +19,20 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Classifier, K-Means Clustering
 - *Microsoft Office Suite*: Proficient in Word, Excel, PowerPoint
 ---
-## Academic Projects
 
+## Education
+**University of Maryland, Baltimore County, USA  (2023 - 2025)**  
+*Masters in Data Science*
+- GPA: 4.0/4.0  
+- Relevant Coursework: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
+
+**Vardhaman College of Engineering, India  (2017 - 2021)**  
+*Bachelor of Technology in Electronics & Communication Engineering*
+- GPA: 9.0/10  
+- Relevant Coursework: Programming in C, Java Programming, Probability Theory and stochastic process, Java Programming, Computer Networks, Image Processing
+---
+
+## Academic Projects
 **Predicting Credit Card Defaulters using Machine Learning | Python, Tensor Flow, Machine Learning, MongoDB.**
 - Developed a machine learning solution that improved risk management and increased collections success by 20% using Python, Scikit-learn, TensorFlow, and Keras.
 - Strong feature selection algorithm was created and put into practice to speed up model training. This resulted in a 40% reduction in feature dimensionality and a 15% improvement in model performance. 
@@ -43,11 +41,9 @@ I am a creative, self-assured person who is passionate about new technologies. L
 **Investigating Crime Determinants and Neighborhood Crime Rates | Python, R, Machine Learning, Tableau.**
 - Analyzed the relationship between unoccupied properties, pest control activity (rat-rub outs), and  population density with crime rates across a city.
 - Employed statistical methods to assess the influence of these factors on crime variations within  neighborhoods and throughout the city over a six-year period..
-
 ---
 
 ## Work Experience
-
 ### Associate Software Engineer  
 **Accenture , India**  
 *November 2021 - July 2023*  
