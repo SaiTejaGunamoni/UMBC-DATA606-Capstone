@@ -1,12 +1,12 @@
 #  Sai Teja Gunamoni
 
 ![ProfilePic](./TejaPic.jpg)  
-+1 4438540950  
-Saitejagunamoni@gmail.com  
-5330 Jamestowne Ct, Baltimore, MD 21229  
+Ph: +14438540950  
+Email: Saitejagunamoni@gmail.com  
+Address: 5330 Jamestowne Ct, Baltimore, MD - 21229  
 
 
-Motivated and dedicated graduate student pursuing a Master’s degree in Data Science at UMBC, seeking a Grader opportunity to leverage academic knowledge and 1.5+ years of professional experience gained at Cognizant, to contribute effectively to students and professors.
+I am a creative, self-assured person who is passionate about new technologies. Looking forward to use my technical, analytical, and artistic skills to improve society.
 
 ---
 
