@@ -5,10 +5,10 @@ Ph: +14438540950
 Email: Saitejagunamoni@gmail.com  
 Address: 5330 Jamestowne Ct, Baltimore, MD - 21229  
 
-
 I am a creative, self-assured person who is passionate about new technologies. Looking forward to use my technical, analytical, and artistic skills to improve society.
 
 ---
+
 ## Technical Skills
 - *Programming Languages*: Python, C, Java, MATLAB
 - *Markup Languages*: HTML, CSS.
@@ -18,6 +18,7 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - *Machine Learning*: Linear Regression, Decision Tree, K-Nearest Neighbors (KNN), Random Forest 
 - Classifier, K-Means Clustering
 - *Microsoft Office Suite*: Proficient in Word, Excel, PowerPoint
+
 ---
 
 ## Education
@@ -30,6 +31,7 @@ I am a creative, self-assured person who is passionate about new technologies. L
 *Bachelor of Technology in Electronics & Communication Engineering*
 - GPA: 9.0/10  
 - Relevant Coursework: Programming in C, Java Programming, Probability Theory and stochastic process, Java Programming, Computer Networks, Image Processing
+
 ---
 
 ## Academic Projects
@@ -45,11 +47,12 @@ I am a creative, self-assured person who is passionate about new technologies. L
 **High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication | VerilogHDL, Cadence.**
 - In this project we proposed an 8X8 Dadda multiplier with approximated 4:2 compressor. 
 - Multiplication of two images on pixel-by-pixel basis will be done with this multiplier. The proposed multiplier has an advantage over precise multipliers in terms of design parameters as well as accuracy metrics
+
 ---
 
 ## Work Experience
-### Associate Software Engineer  
-**Accenture , India**  
+**Associate Software Engineer**  
+*Accenture , India*  
 *November 2021 - July 2023*  
 - Demonstrated strong analytical skills to identify root causes of defects and suggest improvements to the software. 
 - Developed and carried out extensive test strategies to guarantee the operation of medical software programs. 
@@ -58,12 +61,13 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Participated fully in all Scrum team activities, such as sprint reviews, daily stand-up meetings,  and sprint planning. 
 - Successfully updated developers, project managers, and the healthcare client on test results and project progress 
 
-### Junior Analyst  
-**Capgemini, India**  
+**Junior Analyst**  
+*Capgemini, India*   
 *July 2021 - September 2021*  
 - Had an experience as a Data Analyst, excelling in data preparation, analysis, and database Management. 
 - Worked on converting complex data sets into actionable insights, supporting data-driven decision-making.
 - Delivered high-quality work, demonstrated exceptional participation, and engaged proficiently with colleagues.
+
 ---
 
 ## Certifications
@@ -71,6 +75,8 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Coursera Certification on Programming for everybody (getting started with python)
 - Coursera Certification on Object-Oriented Programming with Java
 - Coursera Certification on Python Data Structure
+
 ---
+
 ## Publications
 - High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication Published in 2022 First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR). [Reference Link ](./https://ieeexplore.ieee.org/document/9844191)
