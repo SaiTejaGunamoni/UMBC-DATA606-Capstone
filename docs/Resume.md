@@ -13,12 +13,12 @@ I am a creative, self-assured person who is passionate about new technologies. L
 ## Education
 
 **University of Maryland, Baltimore County, USA  (2023 - 2025)**  
-- Masters in Data Science
+*Masters in Data Science*
 - GPA: 4.0/4.0  
 - Relevant Coursework: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
 
 **Vardhaman College of Engineering, India  (2017 - 2021)**  
-- Bachelor of Technology in Electronics & Communication Engineering
+*Bachelor of Technology in Electronics & Communication Engineering*
 - GPA: 9.0/10  
 - Relevant Coursework: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
 
@@ -55,8 +55,9 @@ I am a creative, self-assured person who is passionate about new technologies. L
 ### Junior Analyst  
 **Capgemini, India**  
 *July 2021 - September 2021*  
-- Received training in various technologies, including SQL and DotNet.
-- Contributed to the "Pharmacy Management System" project, designed to provide real-time information on drug inventory levels in medical stores, facilitating timely drug orders by physicians.
+- Had an experience as a Data Analyst, excelling in data preparation, analysis, and database Management. 
+- Worked on converting complex data sets into actionable insights, supporting data-driven decision-making.
+- Delivered high-quality work, demonstrated exceptional participation, and engaged proficiently with colleagues.
 
 ---
 
