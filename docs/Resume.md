@@ -73,5 +73,4 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Coursera Certification on Python Data Structure
 ---
 ## Publications
-- High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication Published in 2022 First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR).
-- [Reference Link: ](./https://ieeexplore.ieee.org/document/9844191)
+- High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication Published in 2022 First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR). [Reference Link ](./https://ieeexplore.ieee.org/document/9844191)
