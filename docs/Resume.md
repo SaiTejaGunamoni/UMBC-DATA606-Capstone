@@ -13,14 +13,14 @@ I am a creative, self-assured person who is passionate about new technologies. L
 ## Education
 
 **University of Maryland, Baltimore County, USA  (2023 - 2025)**  
-**Masters in Data Science**  
-GPA: 4.0/4.0  
-Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
+- Masters in Data Science
+- GPA: 4.0/4.0  
+- Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
 
 **Vardhaman College of Engineering, India  (2017 - 2021)**  
-**Bachelor of Technology in Electronics & Communication Engineering**  
-GPA: 9.0/10  
-Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
+- Bachelor of Technology in Electronics & Communication Engineering
+- GPA: 9.0/10  
+- Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
 
 ---
 
@@ -34,7 +34,7 @@ Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer 
 - Designed software to process multispectral images to rank regions representing weak and strong areas, enabling farmers to accurately identify crop growth in different parts. 
 - Published in *Annals of RSCB*, vol. 25, no. 6, pp. 17744-17752, Jul. 2021.
 
-### **[Animal Species Image Classification](https://github.com/vamshi4h2/ImageClassification1)** 
+**Animal Species Image Classification**  
 - Developed a project that classifies different images of animals and labels them with their names using a pre-trained network (VGG16) and deep learning techniques such as the Adam optimizer and the ReLU function. 
 - Compared it with traditional models (without pre-trained architecture) and achieved better accuracy.
 
