@@ -12,15 +12,13 @@ I am a creative, self-assured person who is passionate about new technologies. L
 
 ## Education
 
-### University of Maryland, Baltimore County, USA  
+### University of Maryland, Baltimore County, USA  (2023 - 2025)
 **Master of Science - Data Science**  
-2023 - 2025   
 GPA: 4.0/4.0  
 Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
 
-### Vardhaman College of Engineering, India  
+### Vardhaman College of Engineering, India  (2017 - 2021)
 **Bachelor of Technology in Electronics & Communication Engineering** 
-2017 - 2021   
 GPA: 9.0/10  
 Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
 
