@@ -1,6 +1,6 @@
 #  Sai Teja Gunamoni
 
-![ProfilePic](./SaiTejaGunamoniPhoto.jpg)  
+![ProfilePic](./TejaPic.jpg)  
 +1 4438540950  
 Saitejagunamoni@gmail.com  
 5330 Jamestowne Ct, Baltimore, MD 21229  
