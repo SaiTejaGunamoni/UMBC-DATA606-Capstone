@@ -15,16 +15,16 @@ I am a creative, self-assured person who is passionate about new technologies. L
 **University of Maryland, Baltimore County, USA  (2023 - 2025)**  
 - Masters in Data Science
 - GPA: 4.0/4.0  
-- Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
+- Relevant Coursework: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
 
 **Vardhaman College of Engineering, India  (2017 - 2021)**  
 - Bachelor of Technology in Electronics & Communication Engineering
 - GPA: 9.0/10  
-- Relevant Courses: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
+- Relevant Coursework: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
 
 ---
 
-## Projects
+## Academic Projects
 
 **Analysis of Crime Rates in Baltimore City**  
 - Led the analysis of over 50,000 crime incidents in Baltimore City spanning 2017 to 2022, leveraging Python and Pandas to generate insightful visualizations with Matplotlib and Seaborn.
@@ -40,7 +40,7 @@ I am a creative, self-assured person who is passionate about new technologies. L
 
 ---
 
-## Professional Experience
+## Work Experience
 
 ### Associate Software Engineer  
 **Accenture , India**  
@@ -53,14 +53,14 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Successfully updated developers, project managers, and the healthcare client on test results and project progress 
 
 ### Junior Analyst  
-**Cognizant Technology Solutions, India**  
-*February 2021 - September 2021*  
+**Capgemini, India**  
+*July 2021 - September 2021*  
 - Received training in various technologies, including SQL and DotNet.
 - Contributed to the "Pharmacy Management System" project, designed to provide real-time information on drug inventory levels in medical stores, facilitating timely drug orders by physicians.
 
 ---
 
-## Certifications and Skills
+## Skills and Certifications
 
 - **ICT Skills:** Python, SQL, HTML, CSS, Data Structure and Algorithm, MS Office (Excel, Word, PPT)
 - **Languages:** English (Proficient), Telugu (Native), Hindi (Proficient)
