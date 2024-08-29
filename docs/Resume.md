@@ -20,7 +20,7 @@ I am a creative, self-assured person who is passionate about new technologies. L
 **Vardhaman College of Engineering, India  (2017 - 2021)**  
 *Bachelor of Technology in Electronics & Communication Engineering*
 - GPA: 9.0/10  
-- Relevant Coursework: Programming in C, Object-Oriented Programming, Java, Computer Networks, Image Processing
+- Relevant Coursework: Programming in C, Java Programming, Probability Theory and stochastic process, Java Programming, Computer Networks, Image Processing
 
 ---
 
