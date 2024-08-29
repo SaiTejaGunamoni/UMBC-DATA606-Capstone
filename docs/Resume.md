@@ -37,9 +37,11 @@ I am a creative, self-assured person who is passionate about new technologies. L
 - Developed a machine learning solution that improved risk management and increased collections success by 20% using Python, Scikit-learn, TensorFlow, and Keras.
 - Strong feature selection algorithm was created and put into practice to speed up model training. This resulted in a 40% reduction in feature dimensionality and a 15% improvement in model performance. 
 - KMeans clustering was utilized to segment customers based on their purchase behavior, allowing for customized incentives and promotions.
+
 **Investigating Crime Determinants and Neighborhood Crime Rates | Python, R, Machine Learning, Tableau.**
 - Analyzed the relationship between unoccupied properties, pest control activity (rat-rub outs), and  population density with crime rates across a city.
 - Employed statistical methods to assess the influence of these factors on crime variations within  neighborhoods and throughout the city over a six-year period.
+
 **High Speed Multiplier using Embedded Approximate 4-2 Compressor for Image Multiplication | VerilogHDL, Cadence.**
 - In this project we proposed an 8X8 Dadda multiplier with approximated 4:2 compressor. 
 - Multiplication of two images on pixel-by-pixel basis will be done with this multiplier. The proposed multiplier has an advantage over precise multipliers in terms of design parameters as well as accuracy metrics
