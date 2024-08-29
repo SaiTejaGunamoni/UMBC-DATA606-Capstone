@@ -1,4 +1,4 @@
-8#  Sai Teja Gunamoni
+#  Sai Teja Gunamoni
 
 ![ProfilePic](./TejaPic.jpg)  
 Ph: +14438540950  
