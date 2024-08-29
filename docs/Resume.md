@@ -13,7 +13,7 @@ Motivated and dedicated graduate student pursuing a Master’s degree in Data Sc
 ## Education
 
 ### University of Maryland, Baltimore County, USA  
-* 2023 - 2025*  
+* 2023 - 2025 *  
 **Master of Science - Data Science**  
 GPA: 4.0/4.0  
 Relevant Courses: Intro to Data Science, Data Management, Data Analysis & Machine Learning, Big Data Processing
