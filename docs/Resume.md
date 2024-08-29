@@ -26,17 +26,14 @@ I am a creative, self-assured person who is passionate about new technologies. L
 
 ## Academic Projects
 
-**Analysis of Crime Rates in Baltimore City**  
-- Led the analysis of over 50,000 crime incidents in Baltimore City spanning 2017 to 2022, leveraging Python and Pandas to generate insightful visualizations with Matplotlib and Seaborn.
-- Identified the top 5 neighborhoods with up to 30% increase or decrease in crime rates, offering actionable insights to stakeholders for informed decision-making and resource allocation.
+**Predicting Credit Card Defaulters using Machine Learning | Python, Tensor Flow, Machine Learning, MongoDB.**
+- Developed a machine learning solution that improved risk management and increased collections success by 20% using Python, Scikit-learn, TensorFlow, and Keras.
+- Strong feature selection algorithm was created and put into practice to speed up model training. This resulted in a 40% reduction in feature dimensionality and a 15% improvement in model performance. 
+- KMeans clustering was utilized to segment customers based on their purchase behavior, allowing for customized incentives and promotions.
 
-**ROI-based Change Detection of Time Series NDVI Image**   
-- Designed software to process multispectral images to rank regions representing weak and strong areas, enabling farmers to accurately identify crop growth in different parts. 
-- Published in *Annals of RSCB*, vol. 25, no. 6, pp. 17744-17752, Jul. 2021.
-
-**Animal Species Image Classification**  
-- Developed a project that classifies different images of animals and labels them with their names using a pre-trained network (VGG16) and deep learning techniques such as the Adam optimizer and the ReLU function. 
-- Compared it with traditional models (without pre-trained architecture) and achieved better accuracy.
+**Investigating Crime Determinants and Neighborhood Crime Rates | Python, R, Machine Learning, Tableau.**
+- Analyzed the relationship between unoccupied properties, pest control activity (rat-rub outs), and  population density with crime rates across a city.
+- Employed statistical methods to assess the influence of these factors on crime variations within  neighborhoods and throughout the city over a six-year period..
 
 ---
 
