@@ -61,11 +61,12 @@ Altimeter: The altimeter at the time of the observation (Column Type: Integer)
 - Handle missing values (e.g., imputation).
 - Normalize or standardize features for consistency.
 - Explore correlations between variables to identify significant features.
-- Model Selection:
-- Consider various machine learning algorithms:
+#### Model Selection:
 - Linear Regression
 - Random Forest
-- Support Vector Machines (SVM)
+- Gradient Boosting
+- ARIMA
+- LSTM
 - Neural Networks
 - Evaluate performance metrics (e.g., mean squared error, R-squared) to select the optimal model.
 #### Model Training:
