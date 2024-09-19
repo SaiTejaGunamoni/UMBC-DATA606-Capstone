@@ -1,9 +1,7 @@
 # PROJECT PROPOSAL
 
 ## Project Title: Predicting Solar Output Using Weather Data
-
 ![ProfilePic](./SolarHeroImage.png)  
-
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Author: Sai Teja Gunamoni
 - GitHub: https://github.com/SaiTejaGunamoni
