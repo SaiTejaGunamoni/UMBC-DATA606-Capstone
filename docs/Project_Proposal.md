@@ -34,6 +34,7 @@ The dataset is taken from Kaggle.com from source. It is a relational dataset hav
 The dataset consists of a total 26,613 number of house price details along with 22 input features and 1(price) output feature.
 - Rows: 26613
 - Columns: 23
+  
 All the house data falls between May 2014 to May 2015. All the data belongs to the state of Washington and King County. For such kind of data, machine learning algorithms with explain ability is the best method to approach. There are several models such as Bayesian Model, Linear Models, Bagging, Boosting, Stacking can be used to create models.
 
 # Methodologies:
