@@ -1,9 +1,11 @@
-# House Price Prediction Analysis
-An analysis of the amount of the price being tagged to a US neighborhood houses.
-## DATA_606 Capstone in Data Science - Chaojie Wang
-### Final project proposal By Sathyam Chanumolu
+# PROJECT PROPOSAL
 
-![img2](https://user-images.githubusercontent.com/95714100/192624635-81695870-cb23-4485-8d29-e9108dd0d05f.jpg)
+## Project Title: Real Estate Price Forecasting
+![ProfilePic]()  
+- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- Author: Sai Teja Gunamoni
+- GitHub: https://github.com/SaiTejaGunamoni
+
 
 # INTRODUCTION
 A house is a structure where people can reside. It is simply more than location and square footage. It is often constructed/bought for a family. Most modern homes include designated spaces or rooms where individuals can perform their requirements to live peacefully. The current home has a kitchen, a dining room, sleeping quarters, and a laundry room. These activities are typically carried out in different rooms known as the kitchen, living room, bedrooms, bathroom, and toilet (or lavatory).
