@@ -37,23 +37,11 @@ The dataset consists of a total 26,613 number of house price details along with 
   
 All the house data falls between May 2014 to May 2015. All the data belongs to the state of Washington and King County. For such kind of data, machine learning algorithms with explain ability is the best method to approach. There are several models such as Bayesian Model, Linear Models, Bagging, Boosting, Stacking can be used to create models.
 
-# Methodologies:
-This project will involve several steps that will utilize various techniques of a data science project:
-1.	Data Cleaning and Anomaly Detection:
-
-Such relational data has majority time null values, anomalies, and duplicate entries. Need to analyses the data and clean it at the start.
-
-2.	Exploratory Data Analysis:
-
-Exploratory data analysis includes various statistical analysis, plots, graphs, correlation checks to understand the dataset clearly from all angles. It helps in understanding the data along with draw important insights from it.
-
-3.	Feature Engineering and Feature Selection:
-
-Feature engineering is an important part as to create some important features form existing features. Allows to explore feature selection method to reduce unnecessary columns.
-
-4.	Model Building:
-
-Going to build several models and compare them to understand the behavior of the data on different learning models.
+## Methodologies:
+1.	Data Cleaning and Anomaly Detection
+2.	Exploratory Data Analysis
+3.	Feature Engineering and Feature Selection
+4.	Model Building
 
 ## Machine Learning:
 1.	Naive Bayes
