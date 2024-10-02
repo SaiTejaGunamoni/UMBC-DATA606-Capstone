@@ -1,7 +1,7 @@
 # PROJECT PROPOSAL
 
 ## Project Title: Real Estate Price Forecasting
-![ProfilePic]()  
+![ProfilePic](./Realestate.png)  
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Author: Sai Teja Gunamoni
 - GitHub: https://github.com/SaiTejaGunamoni
