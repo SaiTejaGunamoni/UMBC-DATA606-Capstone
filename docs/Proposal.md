@@ -6,7 +6,6 @@
 - Author: Sai Teja Gunamoni
 - GitHub: https://github.com/SaiTejaGunamoni
 
-
 # INTRODUCTION
 Real estate is a complex market where numerous factors influence property value. Accurately predicting house prices is crucial for both buyers and sellers.
 
@@ -46,12 +45,12 @@ Source: Kaggle
 - Compare and select the best-performing model based on evaluation metrics.
 
 ### Hyperparameter Tuning: 
-Optimize hyperparameters of the chosen model(s) to improve performance.
+Optimize hyperparameters of the chosen models to improve performance.
 
 # Expected Outcome:
-The intended outcomes will be factors and features important to build a machine learning regression model on such datasets. The model will help creating business understandings, where to spend, where to focus to increase the house sales with a dynamic pricing.
+The results should be able to reveal the most crucial characteristics impacting home value as well as the accuracy of the best model and also insights into commercial elements like pricing policies.
 
-# Sources:
+# References:
 [1] Quang T, Minh N, Hy D, Bo M, Housing Price Prediction via Improved Machine Learning Techniques, 2019 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2019)
 [2] Bhagat , N. , Mohokar , A. , and Mane , S. , House price forecasting using data mining . Int. J. Comput. Appl. 152 ( 2 ), 23 – 26 , 2016 .
 [3] Palak F, Anand K, Real Estate Price Prediction Using Machine Learning Algorithms, First published: 06 May 2022, https://doi.org/10.1002/9781119792437.ch2
