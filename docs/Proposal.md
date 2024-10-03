@@ -20,8 +20,6 @@ Source: Kaggle
 #### Data Description:
 - Type: Relational dataset
 - Size: 26,613 rows and 23 columns
-- Time Period: 1 year
-- Location: Washington, King County
 - Features: House characteristics (area, build year, condition, rooms etc)
 - Target Variable: House price
 
