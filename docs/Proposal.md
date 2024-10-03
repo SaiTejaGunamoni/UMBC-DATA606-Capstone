@@ -10,8 +10,8 @@
 Real estate is a complex market where numerous factors influence property value. Accurately predicting house prices is crucial for both buyers and sellers.
 
 # Research Questions:
-- How can machine learning and statistical techniques be used to predict house prices accurately?
 - Which factors have the most significant impact on house prices?
+- How can machine learning and statistical techniques be used to predict house prices accurately?
 - Can building a model help us understand business factors like pricing strategies?
 
 # Data Source and Description:
