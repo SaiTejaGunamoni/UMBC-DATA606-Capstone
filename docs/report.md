@@ -129,6 +129,7 @@ Random forest is a bagging method, not a boosting method. The trees in random fo
 For Binary Classification we make use  of Light gradient boosted machine (LightGBM). It is an method in Python that employs a tree-based learning algorithm. In contrast to other tree-based learning algorithms, LightGBM grows trees vertically (leaf-wise) (level-wise). Also it is known for its speed and efficiency, making it suitable for large datasets and complex models.
 
 **Result:**  
+- train_r2: 0.934984
 ![image](https://user-images.githubusercontent.com/95714100/208041357-7d92f2a9-172e-4ee3-a835-3f760e2abe6f.png)
 
 ## 6. Web Application Development
