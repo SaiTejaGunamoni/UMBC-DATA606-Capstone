@@ -67,6 +67,11 @@ Accurate house price prediction has several important applications:
 
 ## 4. Exploratory Data Analysis
 ### 4.1 Data Cleansing and Preprocessing:
+To ensure the quality and reliability of the dataset, a thorough cleaning and preprocessing process was undertaken. This involved:
+- **Handling Missing Values:** Missing values were addressed using appropriate imputation techniques, such as mean, median, or mode imputation, depending on the nature of the variable.
+- **Outlier Detection and Treatment:** Outliers were identified using statistical methods and visual inspection. Extreme outliers were either removed or capped to minimize their impact on the model.
+- **Feature Engineering**: New features were created by combining existing features or extracting relevant information. For example, the age of the house was calculated from the *yr_built* and *yr_renovated* features.
+- **Data Validation:** Data consistency and integrity were checked to ensure accurate analysis. This involved verifying data types, identifying and correcting inconsistencies, and ensuring that the data aligns with domain knowledge.
 ### 4.2 Data Visualization:
 
 ## 5. Model Training and Evaluation
