@@ -94,7 +94,7 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 **Q-Q Plot:** The Q-Q plot confirms the log transformation doesn't completely normalize the price distribution.
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture4.png)
 
-### Feature Analysis:
+## Feature Analysis:
 Univariate, Bivariate, and Multivariate Analysis for the Key features of House like: Furnished, Waterfront view, House quality
 
 - **Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
@@ -109,12 +109,12 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 - **Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture8.png)
 
-### Outlier Analysis:
+## Outlier Analysis:
 - Outliers were identified in features like living area and total area using boxplots and DBSCAN clustering.
 - Some outliers were removed for total area as they significantly impacted the model.
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
 
-### Correlation Analysis:
+## Correlation Analysis:
 - Features like living area, quality, ceiling measure, and furnished showed a positive correlation with price (heatmap).
 - Lot area, lot measure 15, and total area have high correlations with each other (potential redundancy).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture11.png)
@@ -199,9 +199,6 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 
 ## 8. References
 [1] https://simplemaps.com/data/us-zips  
-  
 [2] https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas  
-  
 [3] Palak F, Anand K, Real Estate Price Prediction Using Machine Learning Algorithms, First published: 06 May 2022, https://doi.org/10.1002/9781119792437.ch2
-
 [4] Quang T, Minh N, Hy D, Bo M, Housing Price Prediction via Improved Machine Learning Techniques, 2019 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2019)
