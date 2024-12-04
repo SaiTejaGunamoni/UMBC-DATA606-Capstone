@@ -111,12 +111,12 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 ### Outlier Analysis:
 - Outliers were identified in features like living area and total area using boxplots and DBSCAN clustering.
 - Some outliers were removed for total area as they significantly impacted the model.
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
 
 ### Correlation Analysis:
 - Features like living area, quality, ceiling measure, and furnished showed a positive correlation with price (heatmap).
 - Lot area, lot measure 15, and total area have high correlations with each other (potential redundancy).
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture11.png)
 
 ## 5. Model Training and Evaluation
 ### 5.1 Models Used for Predictive Analysis
