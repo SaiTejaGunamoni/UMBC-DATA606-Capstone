@@ -142,4 +142,16 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 - Feature selection techniques like "monotone" ensured relevant features were considered.
 - Although they do well, linear models like Lasso and Ridge are unable to identify patterns and produce lower r2 scores. Additionally, in comparison to other models, the percentage error is extremely high.
 
+### Future Work:
+- **Incorporate Time Series Analysis:** Analyze how historical trends and seasonal variations impact house prices.
+- **Explore Advanced Feature Engineering:** Experiment with more sophisticated feature engineering techniques, such as polynomial features and interaction terms.
+- **Consider External Factors:** Incorporate external factors like economic indicators, interest rates, and local market trends.
+
 ## 8. References
+[1] https://simplemaps.com/data/us-zips  
+  
+[2] https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas  
+  
+[3] Palak F, Anand K, Real Estate Price Prediction Using Machine Learning Algorithms, First published: 06 May 2022, https://doi.org/10.1002/9781119792437.ch2
+
+[4] Quang T, Minh N, Hy D, Bo M, Housing Price Prediction via Improved Machine Learning Techniques, 2019 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2019)
