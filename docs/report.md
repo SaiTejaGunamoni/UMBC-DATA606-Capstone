@@ -2,7 +2,7 @@
 ![RealeastePic](./Realestate.jpg)  
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - Fall 2024 Semester
-- Author: Sai Teja Gunamoni
+- *Author*: Sai Teja Gunamoni
 - GitHub: https://github.com/SaiTejaGunamoni
 
 ## Background:
