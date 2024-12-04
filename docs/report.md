@@ -82,39 +82,57 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 - Skewness: 4.0217
 - Kurtosis: 34.5224
 
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png)
 <p align="center">
   <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png" alt="Centered Image">
 </p>
 
 **Central Limit Theorem (CLT)**: Applied Central Limit Theorem to the data. Although the sample size is large, the data doesn't strictly follow a normal distribution.
-
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture2.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture2.png" alt="Centered Image">
+</p>
 
 **Log Transformation:** Log transformation was attempted on the price column to achieve normality, but the results weren't perfect.
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture3.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture3.png" alt="Centered Image">
+</p>
 
 **Q-Q Plot:** The Q-Q plot confirms the log transformation doesn't completely normalize the price distribution.
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture4.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture4.png" alt="Centered Image">
+</p>
 
 ## Feature Analysis:
 Univariate, Bivariate, and Multivariate Analysis for the Key features of House like: Furnished, Waterfront view, House quality
 
 - **Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png" alt="Centered Image">
+</p>
 
 - **Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png" alt="Centered Image">
+</p>
 
 - **Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture7.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture7.png" alt="Centered Image">
+</p>
 
 - **Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture8.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture8.png" alt="Centered Image">
+</p>
 
 ## Outlier Analysis:
 - Outliers were identified in features like living area and total area using boxplots and DBSCAN clustering.
 - Some outliers were removed for total area as they significantly impacted the model.
+
+<div align="center">
+  <img src="[image1.png](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)" width="40%" height="auto">
+  <img src="[image2.png](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)" width="40%" height="auto">
+</div>
+
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
 
 ## Correlation Analysis:
