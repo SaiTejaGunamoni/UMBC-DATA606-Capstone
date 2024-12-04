@@ -18,6 +18,7 @@ Accurate house price prediction has several important applications:
 •	Urban Planning and Policymakers: Understanding housing market trends can help policymakers make informed decisions about urban development and housing policies.
 
 ### Research Questions:
+
 •	Feature Importance: Which features have the most significant impact on house prices?
 •	Model Performance: Which machine learning model (e.g., linear regression, decision tree, random forest, gradient boosting) performs best in predicting house prices?
 •	Model Interpretability: How can we interpret the predictions of the model to understand the underlying factors influencing house prices?
