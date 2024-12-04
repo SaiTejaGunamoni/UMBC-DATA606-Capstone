@@ -31,58 +31,31 @@ Accurate house price prediction has several important applications:
 
 **Data Dictionary:**
 
-| Feature Name | Description | Data Type |
-|---|---|---|
-
-Feature variables: 
-
 |feature_name|feature_descriptions|
 |-------------|-----------------|
-|1. cid| a notation for a house|
-|2. dayhours| Date house was sold|
-|3. price| Price is prediction target|
-|4. room_bed|Number of Bedrooms/House|
-|5. room_bath| Number of bathrooms/bedrooms|
-|6. living_measure| square footage of the home|
-|7. lot_measure| square footage of the lot|
-|8. ceil| Total floors (levels) in house|
-|9. coast| House which has a view to a waterfront|
-|10. sight| Has been viewed|
-|11. condition| How good the condition is (Overall)|
-|12. quality| grade given to the housing unit, based on grading system|
-|13. ceil_measure| square footage of house apart from basement|
-|14. basement_measure| square footage of the basement|
-|15. yr_built| Built Year|
-|16. yr_renovated| Year when house was renovated|
-|17. zipcode| zip|
-|18. lat| Latitude coordinate|
-|19. long| Longitude coordinate|
-|20. living_measure15| Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area|
-|21. lot_measure15| lotSize area in 2015(implies-- some renovations)|
-|22. furnished| Based on the quality of room|
-|23. total_area| Measure of both living and lot|
-
-| `id` | Unique identifier for each house | Integer |
-| `date` | Date the house was sold | Date |
-| `price` | Price of the house | Numeric |
-| `bedrooms` | Number of bedrooms | Integer |
-| `bathrooms` | Number of bathrooms | Numeric |
-| sqft_living | Square footage of the living space | Integer |
-| sqft_lot | Square footage of the lot | Integer |
-| floors | Number of floors | Numeric |
-| waterfront | Whether the house has a waterfront view (0 = no, 1 = yes) | Integer |
-| view | Index of view (0-4) | Integer |
-| condition | Condition rating (1-5) | Integer |
-| grade | Overall grade given to the house | Integer |
-| sqft_above | Square footage of house above ground level | Integer |
-| sqft_basement | Square footage of the basement | Integer |
-| yr_built | Year the house was built | Integer |
-| yr_renovated | Year the house was renovated | Integer |
-| zipcode | ZIP code | Integer |
-| lat | Latitude coordinate | Numeric |
-| long | Longitude coordinate | Numeric |
-| sqft_living15 | Average square footage of the nearest 15 neighbors | Integer |
-| sqft_lot15 | Average square footage of the lot of the nearest 15 neighbors | Integer |
+| `cid` | a notation for a house|
+| `dayhours` | Date house was sold|
+| `price` | Price is prediction target|
+| `room_bed` |Number of Bedrooms/House|
+| `room_bath` | Number of bathrooms/bedrooms|
+| `living_measure` | square footage of the home|
+| `lot_measure` | square footage of the lot|
+| `ceil` | Total floors (levels) in house|
+| `coast` | House which has a view to a waterfront|
+| `sight` | Has been viewed|
+| `condition` | How good the condition is (Overall)|
+| `quality` | grade given to the housing unit, based on grading system|
+| `ceil_measure` | square footage of house apart from basement|
+| `basement_measure` | square footage of the basement|
+| `yr_built` | Built Year|
+| `yr_renovated` | Year when house was renovated|
+| `zipcode` | zipcode|
+| `lat` | Latitude coordinate|
+| `long` | Longitude coordinate|
+| `living_measure15` | Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area|
+| `lot_measure15` | lotSize area in 2015(implies-- some renovations)|
+| `furnished` | Based on the quality of room|
+| `total_area` | Measure of both living and lot|
 
 **Data Summary:**
 - Size: 21613 rows and 21 columns
