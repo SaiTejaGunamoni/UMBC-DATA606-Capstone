@@ -28,6 +28,9 @@ Accurate house price prediction has several important applications:
 - **Dataset**: King County House Price Data
 - **Source**: Kaggle
 - **Size**: 5.35MB
+- **Shape**:
+  - Rows: 21613
+  - Columns: 13
 
 **Data Dictionary:**
 
@@ -64,8 +67,7 @@ Accurate house price prediction has several important applications:
 - Outliers: Identified and treated appropriately
 
 **Target Variable:**
-
-* **price:** The selling price of the house.
+- **Price:** The selling price of the house.
 
 ## 4. Exploratory Data Analysis
 ### 4.1 Data Cleansing and Preprocessing:
@@ -74,7 +76,36 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 - **Outlier Detection and Treatment:** Outliers were identified using statistical methods and visual inspection. Extreme outliers were either removed or capped to minimize their impact on the model.
 - **Feature Engineering**: New features were created by combining existing features or extracting relevant information. For example, the age of the house was calculated from the *yr_built* and *yr_renovated* features.
 - **Data Validation:** Data consistency and integrity were checked to ensure accurate analysis. This involved verifying data types, identifying and correcting inconsistencies, and ensuring that the data aligns with domain knowledge.
+
 ### 4.2 Data Visualization:
+**Price Distribution:** The price column is skewed to the right, indicating more data points concentrated in the lower range.
+- Skewness: 4.0217
+- Kurtosis: 34.5224
+
+**Central Limit Theorem (CLT)**: Applied Central Limit Theorem to the data. Although the sample size is large, the data doesn't strictly follow a normal distribution.
+
+**Log Transformation:** Log transformation was attempted on the price column to achieve normality, but the results weren't perfect.
+
+**Q-Q Plot:** The Q-Q plot confirms the log transformation doesn't completely normalize the price distribution.
+
+### Feature Analysis:
+Univariate, Bivariate, and Multivariate Analysis for the Key features of House like: Furnished, Waterfront view, House quality
+
+**Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
+
+**Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
+
+**Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
+
+**Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
+
+### Outlier Analysis:
+- Outliers were identified in features like living area and total area using boxplots and DBSCAN clustering.
+- Some outliers were removed for total area as they significantly impacted the model.
+
+### Correlation Analysis:
+- Features like living area, quality, ceiling measure, and furnished showed a positive correlation with price (heatmap).
+- Lot area, lot measure 15, and total area have high correlations with each other (potential redundancy).
 
 ## 5. Model Training and Evaluation
 ### 5.1 Models Used for Predictive Analysis
