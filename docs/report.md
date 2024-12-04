@@ -126,8 +126,8 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 - Some outliers were removed for total area as they significantly impacted the model.
 
 <div align="center">
-  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png" width="40%" height="auto">
-  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png" width="40%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png" width="45%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png" width="45%" height="auto">
 </div>
 
 
