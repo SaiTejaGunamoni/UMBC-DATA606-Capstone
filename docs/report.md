@@ -80,9 +80,14 @@ Below selected models has been used for machine learning modelling for k-best fe
 - Light GBM
 
 ### 5.2 Model Evaluation
+The performance of each model was evaluated using metrics such as:
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)
+- R-squared
 
 ### •	K-neightbour regressor
-The model predicts the elements based on the k neighbors value and distance calculation method (Minkowski, Euclidean, etc.). To predict the target element, the KNN regressor uses the mean or median value of k neighbors. In this post, we'll go over how to use the sklearn KNN regressor model in Python to solve a regression problem.  
+The model predicts the elements based on the k neighbors value and distance calculation method (Minkowski, Euclidean, etc.). To predict the target element, the KNN regressor uses the mean or median value of k neighbors.
 
 **Result:**  
 - Fitting 3 folds for each of 21 candidates, totalling 63 fits
@@ -90,7 +95,7 @@ The model predicts the elements based on the k neighbors value and distance calc
 ![image](https://user-images.githubusercontent.com/95714100/208039869-aa541413-704c-4c95-9543-1dbbefca5188.png)
 
 ### •	Lasso regression  
-In Python, implement Lasso Regression. To implement Lasso regression in Python, we use the "sklearn.linear_model.Lasso" class. Using this class, we can build a model and use it to make predictions with the necessary train and test data. 
+This model performs linear regression while simultaneously shrinking the coefficients of less important features towards zero, leading to feature selection and regularization. 
 
 **Result:**
 - Fitting 3 folds for each of 6 candidates, totalling 18 fits
@@ -98,7 +103,7 @@ In Python, implement Lasso Regression. To implement Lasso regression in Python, 
 ![image](https://user-images.githubusercontent.com/95714100/208040558-fd938944-f53c-4f1b-a41c-1a25dc8401ee.png)
 
 ### •	Ridge regression  
-Python Ridge Regression (Step-by-Step) Ridge regression is a method for fitting a regression model when the data contains multicollinearity. Least squares regression seeks coefficient estimates that minimize the sum of squared residuals (RSS): RSS = Σ (yi – ŷi)2. 
+Ridge regression is a method for fitting a regression model when the data contains multicollinearity. Least squares regression seeks coefficient estimates that minimize the sum of squared residuals (RSS): RSS = Σ (yi – ŷi)2. 
 
 **Result:** 
 - Fitting 3 folds for each of 6 candidates, totalling 18 fits
@@ -106,14 +111,14 @@ Python Ridge Regression (Step-by-Step) Ridge regression is a method for fitting 
 ![image](https://user-images.githubusercontent.com/95714100/208040602-ba03408b-0c1f-41c3-8ad1-58e514edf8d1.png)
 
 ### •	Decision Tree Regressor 
-In this article, we'll go over the fundamentals of decision trees in Python. So, let's get this party started. Decision Trees are the most straightforward and widely used supervised machine learning algorithm for making predictions. The decision trees algorithm is applied to both regression and classification problems.   
+Decision Trees are the most straightforward and widely used supervised machine learning algorithm for making predictions. This model creates a tree-like structure of decisions and their corresponding outcomes to predict a continuous target variable   
 **Result:** 
 - Fitting 3 folds for each of 120 candidates, totalling 360 fits
 - train_r2: 0.901268
 ![image](https://user-images.githubusercontent.com/95714100/208040817-35fc3343-9a0a-4c48-a3e8-c5a98fbd377f.png)
 
 ### •	Random forest regressor
-Random forest is a bagging method, not a boosting method. The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.  
+Random forest is a bagging method, not a boosting method. The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.   It combines multiple decision trees to improve prediction accuracy and reduce overfitting
 
 **Result:**
 - Fitting 2 folds for each of 20 candidates, totalling 40 fits
@@ -121,11 +126,9 @@ Random forest is a bagging method, not a boosting method. The trees in random fo
 ![image](https://user-images.githubusercontent.com/95714100/208041139-e091ff41-710f-48a4-967e-d3e6aa1bbf20.png)
 
 ### •	Light GBM  
-For Binary Classification, Use LightGBM Light gradient boosted machine (LightGBM) is an ensemble method in Python that employs a tree-based learning algorithm. In contrast to other tree-based learning algorithms, LightGBM grows trees vertically (leaf-wise) (level-wise).  
+For Binary Classification we make use  of Light gradient boosted machine (LightGBM). It is an method in Python that employs a tree-based learning algorithm. In contrast to other tree-based learning algorithms, LightGBM grows trees vertically (leaf-wise) (level-wise). Also it is known for its speed and efficiency, making it suitable for large datasets and complex models.
 
 **Result:**  
-- Did not meet early stopping. Best iteration is: [1000]	
-- valid_0's mape: 0.13702
 ![image](https://user-images.githubusercontent.com/95714100/208041357-7d92f2a9-172e-4ee3-a835-3f760e2abe6f.png)
 
 ## 6. Web Application Development
