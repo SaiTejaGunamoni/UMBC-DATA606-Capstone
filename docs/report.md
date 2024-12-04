@@ -33,11 +33,40 @@ Accurate house price prediction has several important applications:
 
 | Feature Name | Description | Data Type |
 |---|---|---|
-| id | Unique identifier for each house | Integer |
-| date | Date the house was sold | Date |
-| price | Price of the house | Numeric |
-| bedrooms | Number of bedrooms | Integer |
-| bathrooms | Number of bathrooms | Numeric |
+
+Feature variables: 
+
+|feature_name|feature_descriptions|
+|-------------|-----------------|
+|1. cid| a notation for a house|
+|2. dayhours| Date house was sold|
+|3. price| Price is prediction target|
+|4. room_bed|Number of Bedrooms/House|
+|5. room_bath| Number of bathrooms/bedrooms|
+|6. living_measure| square footage of the home|
+|7. lot_measure| square footage of the lot|
+|8. ceil| Total floors (levels) in house|
+|9. coast| House which has a view to a waterfront|
+|10. sight| Has been viewed|
+|11. condition| How good the condition is (Overall)|
+|12. quality| grade given to the housing unit, based on grading system|
+|13. ceil_measure| square footage of house apart from basement|
+|14. basement_measure| square footage of the basement|
+|15. yr_built| Built Year|
+|16. yr_renovated| Year when house was renovated|
+|17. zipcode| zip|
+|18. lat| Latitude coordinate|
+|19. long| Longitude coordinate|
+|20. living_measure15| Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area|
+|21. lot_measure15| lotSize area in 2015(implies-- some renovations)|
+|22. furnished| Based on the quality of room|
+|23. total_area| Measure of both living and lot|
+
+| `id` | Unique identifier for each house | Integer |
+| `date` | Date the house was sold | Date |
+| `price` | Price of the house | Numeric |
+| `bedrooms` | Number of bedrooms | Integer |
+| `bathrooms` | Number of bathrooms | Numeric |
 | sqft_living | Square footage of the living space | Integer |
 | sqft_lot | Square footage of the lot | Integer |
 | floors | Number of floors | Numeric |
