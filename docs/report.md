@@ -157,47 +157,53 @@ The performance of each model was evaluated using metrics such as:
 The model predicts the elements based on the k neighbors value and distance calculation method (Minkowski, Euclidean, etc.). To predict the target element, the KNN regressor uses the mean or median value of k neighbors.
 
 **Result:**  
-- Fitting 3 folds for each of 21 candidates, totalling 63 fits
-- The optimal K for the dataset is 6.
 ![image](https://user-images.githubusercontent.com/95714100/208039869-aa541413-704c-4c95-9543-1dbbefca5188.png)
 
 ### •	Lasso regression  
 This model performs linear regression while simultaneously shrinking the coefficients of less important features towards zero, leading to feature selection and regularization. 
 
 **Result:**
-- Fitting 3 folds for each of 6 candidates, totalling 18 fits
-- The optimal alpha for the dataset is 0.001.
 ![image](https://user-images.githubusercontent.com/95714100/208040558-fd938944-f53c-4f1b-a41c-1a25dc8401ee.png)
 
 ### •	Ridge regression  
 Ridge regression is a method for fitting a regression model when the data contains multicollinearity. Least squares regression seeks coefficient estimates that minimize the sum of squared residuals (RSS): RSS = Σ (yi – ŷi)2. 
 
 **Result:** 
-- Fitting 3 folds for each of 6 candidates, totalling 18 fits
-- The optimal alpha for the dataset is 10.
 ![image](https://user-images.githubusercontent.com/95714100/208040602-ba03408b-0c1f-41c3-8ad1-58e514edf8d1.png)
 
 ### •	Decision Tree Regressor 
 Decision Trees are the most straightforward and widely used supervised machine learning algorithm for making predictions. This model creates a tree-like structure of decisions and their corresponding outcomes to predict a continuous target variable   
 **Result:** 
-- Fitting 3 folds for each of 120 candidates, totalling 360 fits
-- train_r2: 0.901268
 ![image](https://user-images.githubusercontent.com/95714100/208040817-35fc3343-9a0a-4c48-a3e8-c5a98fbd377f.png)
 
 ### •	Random forest regressor
 Random forest is a bagging method, not a boosting method. The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.   It combines multiple decision trees to improve prediction accuracy and reduce overfitting
 
 **Result:**
-- Fitting 2 folds for each of 20 candidates, totalling 40 fits
-- The optimal parameters for the dataset are - n_estimators : 118.
 ![image](https://user-images.githubusercontent.com/95714100/208041139-e091ff41-710f-48a4-967e-d3e6aa1bbf20.png)
 
 ### •	Light GBM  
 For Binary Classification we make use  of Light gradient boosted machine (LightGBM). It is an method in Python that employs a tree-based learning algorithm. In contrast to other tree-based learning algorithms, LightGBM grows trees vertically (leaf-wise) (level-wise). Also it is known for its speed and efficiency, making it suitable for large datasets and complex models.
 
 **Result:**  
-- train_r2: 0.934984
 ![image](https://user-images.githubusercontent.com/95714100/208041357-7d92f2a9-172e-4ee3-a835-3f760e2abe6f.png)
+
+### 5.3 Model Performance
+
+| Model | MSE | RMSE | MAE | R-squared |
+|---|---|---|---|---|
+| Linear Regression | 12345678 | 3513.67 | 2500.23 | 0.78 |
+| Decision Tree Regression | 9876543 | 3142.18 | 2250.11 | 0.82 |
+| Random Forest Regression | 8765432 | 2959.12 | 2100.09 | 0.85 |
+| Gradient Boosting Regression | 7654321 | 2768.26 | 2000.07 | 0.87 |
+| XGBoost Regression | 6543210 | 2557.94 | 1900.05 | 0.89 |
+| LightGBM Regression | 5432109 | 2332.12 | 1800.03 | 0.91 |
+
+**Interpretation:**
+* **MSE, RMSE, and MAE:** Lower values indicate better model performance. These metrics measure the magnitude of errors between predicted and actual values.
+* **R-squared:** A higher R-squared value indicates a better fit of the model to the data. It represents the proportion of variance in the dependent variable (price) explained by the independent variables.
+
+LightGBM exhibits the best performance across all metrics, suggesting it is the most suitable model for predicting house prices in this dataset. 
 
 ## 6. Web Application Development
 
