@@ -203,7 +203,7 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 * **MSE, RMSE, and MAE:** Lower values indicate better model performance. These metrics measure the magnitude of errors between predicted and actual values.
 * **R-squared:** A higher R-squared value indicates a better fit of the model to the data. It represents the proportion of variance in the dependent variable (price) explained by the independent variables.
 
-LightGBM exhibits the best performance across all metrics, suggesting it is the most suitable model for predicting house prices in this dataset. 
+**LightGBM** exhibits the best performance across all metrics, suggesting it is the most suitable model for predicting house prices in this dataset. 
 
 ## 6. Web Application Development
 
