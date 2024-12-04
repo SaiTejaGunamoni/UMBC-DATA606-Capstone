@@ -97,16 +97,16 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 ### Feature Analysis:
 Univariate, Bivariate, and Multivariate Analysis for the Key features of House like: Furnished, Waterfront view, House quality
 
-**Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
+- **Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png)
 
-**Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
+- **Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png)
 
-**Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
+- **Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture7.png)
 
-**Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
+- **Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture8.png)
 
 ### Outlier Analysis:
