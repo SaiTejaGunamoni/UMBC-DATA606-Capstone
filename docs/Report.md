@@ -1,9 +1,8 @@
-# House Price Prediction Analysis
-*An analysis of the amount of the price being tagged to a US neighborhood houses.*
-# DATA_606 Capstone in Data Science - Chaojie Wang
-## By Sathyam Chanumolu
-
-![img2](https://user-images.githubusercontent.com/95714100/207893681-d58e83a9-60b6-4110-a0b4-e6331a6917cc.jpg)
+# Project Title: Real Estate Price Forecasting
+![ProfilePic](./Realestate.jpg)  
+- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- Author: Sai Teja Gunamoni
+- GitHub: https://github.com/SaiTejaGunamoni
 
 
 ## INTRODUCTION
