@@ -114,7 +114,8 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 </div>
 
 - **Categorical Data:**
-  Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
+
+Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
 <p align="center">
   <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture7.png" alt="Centered Image">
 </p>
