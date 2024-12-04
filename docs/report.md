@@ -1,4 +1,4 @@
-#Project Title: Real Estate Price Forecasting
+# Project Title: Real Estate Price Forecasting
 ![RealeastePic](./Realestate.jpg)  
 
 •	Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - Fall 2024 Semester
