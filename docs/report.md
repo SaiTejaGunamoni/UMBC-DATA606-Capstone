@@ -52,6 +52,7 @@ Data Dictionary:
 | long | Longitude coordinate | Numeric |
 | sqft_living15 | Average square footage of the nearest 15 neighbors | Integer |
 | sqft_lot15 | Average square footage of the lot of the nearest 15 neighbors | Integer |
+
 Data Summary:
 •	Size: 21613 rows and 21 columns
 •	Data Type: Numerical and Categorical
