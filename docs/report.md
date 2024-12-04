@@ -129,11 +129,10 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 - Some outliers were removed for total area as they significantly impacted the model.
 
 <div align="center">
-  <img src="[image1.png](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)" width="40%" height="auto">
-  <img src="[image2.png](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)" width="40%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png" width="40%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png" width="40%" height="auto">
 </div>
 
-![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
 
 ## Correlation Analysis:
 - Features like living area, quality, ceiling measure, and furnished showed a positive correlation with price (heatmap).
