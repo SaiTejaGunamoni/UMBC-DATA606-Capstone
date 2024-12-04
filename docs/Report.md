@@ -1,6 +1,7 @@
 # 1. Title: Real Estate Price Forecasting
-![RealeastePic](./Realestate.jpg)  
-
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Realestate.jpg" alt="Centered Image">
+</p>
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - Fall 2024 Semester
 - **Author**: Sai Teja Gunamoni
 - **GitHub**: https://github.com/SaiTejaGunamoni
