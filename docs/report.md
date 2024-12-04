@@ -85,29 +85,38 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png)
 
 **Central Limit Theorem (CLT)**: Applied Central Limit Theorem to the data. Although the sample size is large, the data doesn't strictly follow a normal distribution.
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture2.png)
 
 **Log Transformation:** Log transformation was attempted on the price column to achieve normality, but the results weren't perfect.
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture3.png)
 
 **Q-Q Plot:** The Q-Q plot confirms the log transformation doesn't completely normalize the price distribution.
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture4.png)
 
 ### Feature Analysis:
 Univariate, Bivariate, and Multivariate Analysis for the Key features of House like: Furnished, Waterfront view, House quality
 
 **Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png)
 
 **Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png)
 
 **Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture7.png)
 
 **Zip Codes:** Most data originates from Seattle, with Medina having the highest average price (potentially due to luxury houses).
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture8.png)
 
 ### Outlier Analysis:
 - Outliers were identified in features like living area and total area using boxplots and DBSCAN clustering.
 - Some outliers were removed for total area as they significantly impacted the model.
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture9.png)
 
 ### Correlation Analysis:
 - Features like living area, quality, ceiling measure, and furnished showed a positive correlation with price (heatmap).
 - Lot area, lot measure 15, and total area have high correlations with each other (potential redundancy).
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture10.png)
 
 ## 5. Model Training and Evaluation
 ### 5.1 Models Used for Predictive Analysis
