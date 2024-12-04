@@ -107,8 +107,8 @@ Univariate, Bivariate, and Multivariate Analysis for the Key features of House l
 - **Furnished:** Houses with furniture tend to be more expensive (Univariate analysis).
 - **Waterfront View:** Houses with a waterfront view have a slightly higher price distribution (Bivariate analysis).
 <div align="center">
-  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png" width="40%" height="auto">
-  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png" width="40%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture5.png" width="50%" height="auto">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture6.png" width="50%" height="auto">
 </div>
 
 - **Categorical Data:** Features like overall quality and number of bathrooms show a positive correlation with Price (boxplots).
