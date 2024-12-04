@@ -61,3 +61,6 @@ Accurate house price prediction has several important applications:
 - Missing Values: Minimal or handled during preprocessing
 - Outliers: Identified and treated appropriately
 
+**Target Variable:**
+
+* **price:** The selling price of the house.
