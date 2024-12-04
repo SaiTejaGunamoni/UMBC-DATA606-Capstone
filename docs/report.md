@@ -81,6 +81,7 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 **Price Distribution:** The price column is skewed to the right, indicating more data points concentrated in the lower range.
 - Skewness: 4.0217
 - Kurtosis: 34.5224
+![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png)
 
 **Central Limit Theorem (CLT)**: Applied Central Limit Theorem to the data. Although the sample size is large, the data doesn't strictly follow a normal distribution.
 
