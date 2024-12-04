@@ -1,11 +1,11 @@
-# Project Title: Real Estate Price Forecasting
+# 1. Project Title: Real Estate Price Forecasting
 ![RealeastePic](./Realestate.jpg)  
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - Fall 2024 Semester
 - **Author**: Sai Teja Gunamoni
 - **GitHub**: https://github.com/SaiTejaGunamoni
 
-## Background:
+## 2. Background:
 
 ### What is it about?
 This project focuses on predicting house prices using machine learning techniques. It involves collecting and cleaning a dataset containing various features related to houses, such as square footage, number of bedrooms, bathrooms, and location. The goal is to develop a model that can accurately estimate the price of a house based on these features.
@@ -24,7 +24,7 @@ Accurate house price prediction has several important applications:
 - **Model Interpretability**: How can we interpret the predictions of the model to understand the underlying factors influencing house prices?
 - **Generalizability**: How well does the model generalize to other regions or time periods?
 
-## Data
+## 3. Data
 - **Dataset**: King County House Price Data
 - **Source**: Kaggle
 - **Size**: 5.35MB
@@ -64,3 +64,73 @@ Accurate house price prediction has several important applications:
 **Target Variable:**
 
 * **price:** The selling price of the house.
+
+## 4. Exploratory Data Analysis
+### 4.1 Data Cleansing and Preprocessing:
+### 4.2 Data Visualization:
+
+## 5. Model Training and Evaluation
+### 5.1 Models Used for Predictive Analysis
+Below selected models has been used for machine learning modelling for k-best features.
+- K-neightbour regressor
+- Lasso regression
+- Ridge regression
+- Decision tree
+- Random forest regressor
+- Light GBM
+
+### 5.2 Model Evaluation
+
+### •	K-neightbour regressor
+The model predicts the elements based on the k neighbors value and distance calculation method (Minkowski, Euclidean, etc.). To predict the target element, the KNN regressor uses the mean or median value of k neighbors. In this post, we'll go over how to use the sklearn KNN regressor model in Python to solve a regression problem.  
+**Result:**  
+Fitting 3 folds for each of 21 candidates, totalling 63 fits
+The optimal K for the dataset is 6.
+![image](https://user-images.githubusercontent.com/95714100/208039869-aa541413-704c-4c95-9543-1dbbefca5188.png)
+
+### •	Lasso regression  
+In Python, implement Lasso Regression. To implement Lasso regression in Python, we use the "sklearn.linear_model.Lasso" class. Using this class, we can build a model and use it to make predictions with the necessary train and test data.
+**Result:**
+Fitting 3 folds for each of 6 candidates, totalling 18 fits
+The optimal alpha for the dataset is 0.001.
+![image](https://user-images.githubusercontent.com/95714100/208040558-fd938944-f53c-4f1b-a41c-1a25dc8401ee.png)
+
+### •	Ridge regression  
+Python Ridge Regression (Step-by-Step) Ridge regression is a method for fitting a regression model when the data contains multicollinearity. Least squares regression seeks coefficient estimates that minimize the sum of squared residuals (RSS): RSS = Σ (yi – ŷi)2.
+**Result:** 
+Fitting 3 folds for each of 6 candidates, totalling 18 fits
+The optimal alpha for the dataset is 10.
+![image](https://user-images.githubusercontent.com/95714100/208040602-ba03408b-0c1f-41c3-8ad1-58e514edf8d1.png)
+
+### •	Decision Tree Regressor 
+In this article, we'll go over the fundamentals of decision trees in Python. So, let's get this party started. Decision Trees are the most straightforward and widely used supervised machine learning algorithm for making predictions. The decision trees algorithm is applied to both regression and classification problems.  
+**Result:** 
+Fitting 3 folds for each of 120 candidates, totalling 360 fits
+train_r2: 0.901268
+![image](https://user-images.githubusercontent.com/95714100/208040817-35fc3343-9a0a-4c48-a3e8-c5a98fbd377f.png)
+
+### •	Random forest regressor
+Random forest is a bagging method, not a boosting method. The trees in random forests run in parallel, which means there is no interaction between these trees while they are being built.  
+**Result:**
+Fitting 2 folds for each of 20 candidates, totalling 40 fits
+The optimal parameters for the dataset are - n_estimators : 118.
+![image](https://user-images.githubusercontent.com/95714100/208041139-e091ff41-710f-48a4-967e-d3e6aa1bbf20.png)
+
+### •	Light GBM  
+For Binary Classification, Use LightGBM Light gradient boosted machine (LightGBM) is an ensemble method in Python that employs a tree-based learning algorithm. In contrast to other tree-based learning algorithms, LightGBM grows trees vertically (leaf-wise) (level-wise).  
+**Result:**  
+Did not meet early stopping. Best iteration is: [1000]	
+valid_0's mape: 0.13702
+![image](https://user-images.githubusercontent.com/95714100/208041357-7d92f2a9-172e-4ee3-a835-3f760e2abe6f.png)
+
+## 6. Web Application Development
+
+## 7. Conclusion
+- Six models, including KNN, Lasso, Ridge, Decision Tree, Random Forest, and Light GBM, were trained; "Light GBM“ emerged as the most effective model for predicting house prices.
+- The model achieved high accuracy with a MAPE of 0.12-0.14 and R² of 0.93-0.87 for the test and train respectively.
+- Model can be useful for buyers, sellers, and loan providers in estimating house prices accurately.
+- Feature importance: living_measure, quality, and ceil_measure were among the most influential features
+- Feature selection techniques like "monotone" ensured relevant features were considered.
+- Although they do well, linear models like Lasso and Ridge are unable to identify patterns and produce lower r2 scores. Additionally, in comparison to other models, the percentage error is extremely high.
+
+## 8. References
