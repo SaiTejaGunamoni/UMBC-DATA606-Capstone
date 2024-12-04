@@ -83,6 +83,9 @@ To ensure the quality and reliability of the dataset, a thorough cleaning and pr
 - Kurtosis: 34.5224
 
 ![image](https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png)
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Picture1.png" alt="Centered Image">
+</p>
 
 **Central Limit Theorem (CLT)**: Applied Central Limit Theorem to the data. Although the sample size is large, the data doesn't strictly follow a normal distribution.
 
