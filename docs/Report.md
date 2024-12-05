@@ -198,8 +198,8 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 | Decision Tree Regression | `9876543` | `3142.18` | `2250.11` | `0.82` |
 | Random Forest Regression | `8765432` | `2959.12` | `2100.09` | `0.85` |
 | Gradient Boosting Regression | `7654321` | `2768.26` | `2000.07` | `0.87` |
-| XGBoost Regression | 6543210 | `2557.94` | `1900.05` | `0.89` |
-| LightGBM Regression | 5432109 | `2332.12` | `1800.03` | `0.91` |
+| XGBoost Regression | `6543210` | `2557.94` | `1900.05` | `0.89` |
+| LightGBM Regression | `5432109` | `2332.12` | `1800.03` | `0.91` |
 
 **Interpretation:**
 * **MSE, RMSE, and MAE:** Lower values indicate better model performance. These metrics measure the magnitude of errors between predicted and actual values.
