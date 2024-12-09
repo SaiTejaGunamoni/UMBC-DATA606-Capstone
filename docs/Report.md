@@ -211,6 +211,10 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 
 ## 6. Web Application Development
 
+<p align="center">
+  <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Web Application.jpg" alt="Centered Image">
+</p>
+
 ## 7. Conclusion
 - Six models, including KNN, Lasso, Ridge, Decision Tree, Random Forest, and Light GBM, were trained; "Light GBM“ emerged as the most effective model for predicting house prices.
 - The model achieved high accuracy with a MAPE of 0.12-0.14 and R² of 0.93-0.87 for the test and train respectively.
