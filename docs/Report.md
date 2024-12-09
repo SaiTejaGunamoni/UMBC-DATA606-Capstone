@@ -6,6 +6,8 @@
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - Fall 2024 Semester
 - **Author**: Sai Teja Gunamoni
 - **GitHub**: https://github.com/SaiTejaGunamoni
+- **Presentation Link**:
+- **Youtube Link**:
 
 ## 2. Background:
 
