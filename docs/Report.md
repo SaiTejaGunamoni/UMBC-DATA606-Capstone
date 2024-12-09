@@ -211,6 +211,11 @@ For Binary Classification we make use  of Light gradient boosted machine (LightG
 
 ## 6. Web Application Development
 
+A user-friendly web application was built using Streamlit to make the model accessible and interactive. Key features include:
+
+User Input: Fields for selecting particular crime types and also to choose specific date range.
+Prediction Output: After processing the input data, the app displays the contours at the locations where the crime has been occured.
+
 <p align="center">
   <img src="https://github.com/SaiTejaGunamoni/UMBC-DATA606-Capstone/blob/main/docs/images/Web Application.jpg" alt="Centered Image">
 </p>
